@@ -1,6 +1,6 @@
 ## SRI VINAYAGA AUTOMOBILES | React eCommerce Web App
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
+### [Demo Link](https://srivinayaga.vercel.app/) 🔗
 
 Bike Spare parts Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
@@ -12,11 +12,6 @@ State management using Context API.
 - #### Remove Product from the Cart
 - #### Increment / Decrement the Product's Quantity
 - #### Product's Total Price / Discount Calculations
-- #### Filters - Sort by / Filter by Options
-- #### Custom Hooks
-- #### Local Storage
-- #### Fully Responsive
-- #### Dark Theme
 - #### Multi Pages
 - #### ...and much more
 
